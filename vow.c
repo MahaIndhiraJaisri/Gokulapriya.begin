@@ -38,7 +38,11 @@ case "U":
          printf("vowel");
          break:
 default:
-         print("consonent);
+         printf("consonent);
 }
 }
-}
+else
+   {
+      printf("enter the character");
+   }
+ }
