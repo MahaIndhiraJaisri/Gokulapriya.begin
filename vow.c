@@ -3,7 +3,7 @@ void main()
 {
 char a;
 scanf("%d",&a);
-if(!isdigit(a))
+if(!(isdigit(a)))
 {
 switch(a)
 {
