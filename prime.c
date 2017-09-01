@@ -12,10 +12,10 @@ count++;
 }
 if(count==0)
 {
-printf("prime number);
+printf("prime number");
 }
 else
 {
-printf("not a prime number);
+printf("not a prime number");
 }
 }
