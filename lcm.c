@@ -11,3 +11,6 @@ if((a%min==0)&&(b%min==0))
 printf("LCM of given num is %d",min);
   break;
 }
+  min++;
+}
+}
