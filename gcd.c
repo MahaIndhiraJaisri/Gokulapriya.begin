@@ -4,13 +4,12 @@ void main()
 int a,b,min;
 scanf("%d%d",&a,&b);
 min=(a<b)?b:c;
-while(1)
+for(min=1; min <= a && min <= b; ++min)
 {
 if((a%min==0)&&(b%min==0))
 {
-printf("LCM of given num is %d",min);
+printf("gcd of given num is %d",min);
   break;
 }
-  min++;
 }
 }
