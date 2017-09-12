@@ -8,4 +8,6 @@ while(1)
 {
 if((a%min==0)&&(b%min==0))
 {
-printf(
+printf("LCM of given num is %d",min);
+  break;
+}
