@@ -3,7 +3,9 @@ void main()
 {
 char str[30];
 int i=0,count=0;
-while(str[i]!='\o')
+  printf("enter the string");
+  scanf("%s",&str);
+while(str[i]!='\0')
 {
 if(!(str[i]==" "))
 {
