@@ -14,5 +14,5 @@ if(isdigit(str[i])||!(alnum(str[i]))
 ++i;
 }
 
-printf("no of digits is %d ",count);
+printf("no of special characters is %d ",count);
 }
