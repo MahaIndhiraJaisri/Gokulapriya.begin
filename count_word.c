@@ -13,5 +13,6 @@ if(str[i]==" ")
 }
 ++i;
 }
+  count++;
 printf("no of words is %d ",count);
 }
