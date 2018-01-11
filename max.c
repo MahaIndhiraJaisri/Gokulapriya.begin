@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int n,arr[20],i=0,min,temp;
+int arr[20],i=0,min,temp;
 printf("enter array elements");
 
   for(i=0;i<10;i++)
