@@ -8,7 +8,7 @@ while(isdigit(a[i]))
 {
 if((a[i]%2)!=0)
 {
-printf("%d",a[i]);
+printf("%d\t",a[i]);
 }
 i++;
 }
