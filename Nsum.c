@@ -8,4 +8,5 @@ for(i=1;i<=num;i++)
 scanf("%d",&a[i]);
 sum=sum+a[i];
 }
+  printf("sum=%d",sum);
 }
