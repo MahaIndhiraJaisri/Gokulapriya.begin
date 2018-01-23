@@ -2,7 +2,7 @@
 void main()
 {
 int n[20],i=0,N;
-printf("enter the string");
+printf("enter the numbers");
 scanf("%s",&n);
 printf("enter N value");
 scanf("%d",&N);
