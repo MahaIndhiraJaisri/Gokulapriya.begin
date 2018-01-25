@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c;
+int A,B,C;
 printf("enter the values of a,b,c");
-scanf("%d%d%d",&a,&b,&c);
-printf("answer of (a*b)/c is %f",((a*b)/c));
+scanf("%d%d%d",&A,&B,&C);
+printf("answer of (a*b)/c is %f",((A*B)/C));
 }
