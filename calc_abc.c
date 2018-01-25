@@ -1,10 +1,10 @@
 #include<stdio.h>
 void main()
 {
-int A,B,C;
-float d;
-printf("enter the values of a,b,c");
-scanf("%d%d%d",&A,&B,&C);
-d=((A*B)/C);
-printf("answer of (a*b)/c is %f",d);
+int a,n,d;
+float sum;
+printf("enter the values of a,n,d");
+scanf("%d%d%d",&a,&n,&d);
+sum=a+(a+(n-1)d);
+printf("sum of AP series is %f",sum);
 }
