@@ -1,9 +1,9 @@
 #include <stdio.h>
-int isdigit(int);
+int is_digit(int);
 int main()
 {
     char str[20],ch;
-    int i,j,n1=0,n2=0,nn1=0,nn2=0;
+    int i,j,n1=0,n2=0,nn1=0,nn2=0,t;
   printf("enter the string");
   scanf("%d",&str);
   for(i=0;str[i]!='\0';i++)
