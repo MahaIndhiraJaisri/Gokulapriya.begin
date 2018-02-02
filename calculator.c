@@ -15,7 +15,7 @@ int main()
       }
       else
       {
-          ch=str[i];
+          t=i;
           for(j=i+1;str[j]!='\0';j++)
           {
               nn2=(int)str[j];
@@ -24,6 +24,7 @@ int main()
           break;
       }
   }
+  ch=str[i];
   switch(ch)
   {
       case '/':printf("\ndivision of two numbers=%d",(n1/n1));
