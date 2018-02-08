@@ -23,6 +23,7 @@ int main()
             }
         }
     }
+   cout<<"strings in lexicographical order";
     for(i=0;i<n;i++)
    {
        cout<<str[i];
